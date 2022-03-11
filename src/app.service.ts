@@ -114,7 +114,7 @@ export class AppService {
       },
       {
         name: 'Macarons',
-        description: 'almond flour, egg,, sugar, food coloring',
+        description: 'almond flour, egg, sugar, food coloring',
         price: 4.99,
         image:
           'https://github.com/CumbucaBr/web-pos/blob/main/images/product-14.jpg',
