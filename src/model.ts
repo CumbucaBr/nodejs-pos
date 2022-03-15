@@ -3,6 +3,7 @@ type Products = {
   description: string;
   price: number;
   image: string;
+  category: string[];
 };
 
 export { Products };
